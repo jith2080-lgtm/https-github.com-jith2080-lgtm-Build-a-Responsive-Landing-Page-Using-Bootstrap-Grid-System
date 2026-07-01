@@ -1,0 +1,1 @@
+# https-github.com-jith2080-lgtm-Build-a-Responsive-Landing-Page-Using-Bootstrap-Grid-System
